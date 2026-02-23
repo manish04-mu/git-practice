@@ -1,2 +1,3 @@
 prev: file1 main
+curr: file2 feature1
 curr: file1 branch2- main
