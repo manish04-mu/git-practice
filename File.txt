@@ -1,2 +1,2 @@
-prev: -
-curr: file1 main
+prev: file1 main
+curr: file1 branch2- main
